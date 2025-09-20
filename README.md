@@ -2,7 +2,7 @@ This project celebrates the **95th Saudi National Day** 🎉 by displaying a cus
 
 ---
 
-Features
+# Features
 - Plays a National Day animation on the OLED screen.
 - Simple hardware: ESP8266 + OLED + breadboard + jumper wires.
 - Custom frames converted from images to simulate a GIF-like animation.
@@ -10,7 +10,7 @@ Features
 
 ---
 
-Hardware Used
+# Hardware Used
 - **ESP8266 NodeMCU (ESP-12E)**
 - **SSD1306 OLED Display (128x64, I²C)**
 - **Breadboard**
